@@ -12,6 +12,7 @@
 
     <modules>
         <!-- Módulos serão listados aqui -->
+
         <module>strategy</module>
     </modules>
 </project>
