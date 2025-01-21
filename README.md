@@ -42,7 +42,7 @@ O padrão Factory abstrai a criação de objetos, delegando essa responsabilidad
 
 ## 📂 Estrutura do Projeto
 ```plaintext
-├── src
+├── strategy
 │   ├── strategy
 │   │   ├── Strategy.java
 │   │   ├── ConcreteStrategyA.java
